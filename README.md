@@ -1,2 +1,2 @@
 # Reinforcement_learning_game_play
-start by running play.py
+Start by running play.py
